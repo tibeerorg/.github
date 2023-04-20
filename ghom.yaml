@@ -9,6 +9,7 @@ owners:
   - tibeer
   - ra-beer
   - maxwolfs
+  - jschoone
 members: []
 teams:
   admins:
@@ -19,6 +20,7 @@ teams:
     members:
       - ra-beer
       - maxwolfs
+      - jschoone
   maintainers:
     description: ""
     private: false
